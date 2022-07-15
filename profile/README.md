@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="https://res.cloudinary.com/malloc/image/upload/v1656917150/cloudslit/page1_pvdlct.png" 
+    src="https://user-images.githubusercontent.com/34047788/179192899-baf010c8-c2e0-4dd4-b41f-47e569152234.png" 
     width="100%" border="0" alt="IceFireDB">
 </p>
 
