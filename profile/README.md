@@ -1,12 +1,21 @@
 <p align="center">
-<img 
-    src="https://user-images.githubusercontent.com/34047788/182298515-98238940-3d8a-4ce8-ab7b-c0a27666cf0a.png" 
-    width="100%" border="0" alt="IceFireDB">
-    <b>Build a global web3 decentralized zero-trust security network，Building Cyber Sovereignty.</b>
+
+<img width="1423" alt="image" src="https://user-images.githubusercontent.com/34047788/191491619-91a8030b-30f9-426d-af3a-de93739af1ad.png">
+    <b>Build a global web3 decentralized private retrieval of data security network，Building Cyber  Sovereignty.</b>
 </p>
 
 
-CloudSlit aims to build a global web3 decentralized zero trust security network system to help users regain the private security information eroded by giants under web2, so that the current global hot zero trust security network technology can better help users master their own security privacy data in combination with web3, and give users a good zero trust security network products and platform experience.
+# inspiration
+
+At present, the options available for interactive (low-latency) communication with privacy guarantee are very limited, and the solutions developed so far all focus on the traditional web model of single source data publisher, and it has defects in delay and threat models.
+
+CloudSlit uses blockchain, web3 and secure network technology of private data retrieval to enhance and improve network security/privacy protection of users' privatization.
+
+In order to protect the public's network security under web2, a very popular zero-trust security architecture has emerged. Our team has been working on open source products with zero trust security, but we found that although many zero trust network security companies provide zero trust security platforms, they monopolize users' network access nodes and centrally store users' core security profiles. Therefore, we are considering whether we can use web3 technology to realize a secure network for private data retrieval. We designed CloudSlit project to provide users with a decentralized secure network platform for private data retrieval, and help users master their own secure data.
+
+# Its value
+
+CloudSlit aims to build a decentralized private data retrieval security network system of web3 in the world, and help users recapture the privacy security information eroded by giants under web2, so that the current global hot zero-trust security network technology combined with web3 can better help users master their own security privacy data and give users a good experience of private data retrieval security network products.
 
 ## Thanks supports
 
