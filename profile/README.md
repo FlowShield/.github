@@ -1,8 +1,7 @@
 <p align="center">
-
-<img  alt="image" src="https://user-images.githubusercontent.com/34047788/204788311-9db29be8-ac90-4bff-9a39-6f9126ba22c7.png">
-    <b>Build a global web3 decentralized private retrieval of data security network，Building Cyber  Sovereignty.</b>
+<img width="90%" alt="image" src="https://user-images.githubusercontent.com/34047788/204796156-c5c9d228-725b-4e14-b8ed-1e705ba19bc5.png">
 </p>
+
 
 # inspiration
 
