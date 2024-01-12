@@ -3,12 +3,15 @@
 </p>
 
 
-At present, the options available for interactive (low-latency) communication with privacy guarantee are very limited, and the solutions developed so far all focus on the traditional web model of single source data publisher, and it has defects in delay and threat models.
+The FlowShield project was inspired by the exciting prospects of Web 3.0. We firmly believe that decentralized data retrieval, blockchain and artificial intelligence will be key elements in shaping the future of cybersecurity.
 
-FlowShield uses blockchain, web3 and secure network technology of private data retrieval to enhance and improve network security/privacy protection of users' privatization.
+From this fascinating vision, FlowShield emerged. We pursue innovation and combine blockchain technology with artificial intelligence to build a truly revolutionary cybersecurity solution.
 
-In order to protect the public's network security under web2, a very popular zero-trust security architecture has emerged. Our team has been working on open source products with zero trust security, but we found that although many zero trust network security companies provide zero trust security platforms, they monopolize users' network access nodes and centrally store users' core security profiles. Therefore, we are considering whether we can use web3 technology to realize a secure network for private data retrieval. We designed FlowShield project to provide users with a decentralized secure network platform for private data retrieval, and help users master their own secure data.
+FlowShield leverages the decentralized nature of blockchain to build an excellent data storage and retrieval framework. This framework gives users absolute control over their data and protects their personal privacy. Through data encryption and decentralized storage, we have successfully reduced the risk of data leaks and attacks, and abandoned the shortcomings of traditional centralized storage.
 
+At the same time, FlowShield gives full play to the powerful capabilities of artificial intelligence. We use machine learning and deep learning algorithms to monitor and analyze network traffic in real time. This allows us to quickly identify and respond to various security threats, whether they are malware intrusions or network attacks, to ensure that users are protected from potential risks.
+
+FlowShield's mission is to provide safe and reliable network protection solutions for the Web3.0 era. We firmly believe that through the integration of blockchain and artificial intelligence technologies, we can create an indestructible network environment for users with confidence and credibility. We are committed to building a secure and decentralized network ecosystem so that everyone can fully control their own data and protect personal privacy. This is our passionate pursuit of future network security and the driving force behind the unremitting efforts of the FlowShield project.
 
 ## Ecological partners
 
