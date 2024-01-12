@@ -10,7 +10,7 @@ FlowShield uses blockchain, web3 and secure network technology of private data r
 In order to protect the public's network security under web2, a very popular zero-trust security architecture has emerged. Our team has been working on open source products with zero trust security, but we found that although many zero trust network security companies provide zero trust security platforms, they monopolize users' network access nodes and centrally store users' core security profiles. Therefore, we are considering whether we can use web3 technology to realize a secure network for private data retrieval. We designed FlowShield project to provide users with a decentralized secure network platform for private data retrieval, and help users master their own secure data.
 
 
-## Thanks supports
+## Ecological partners
 
 
 <table>
