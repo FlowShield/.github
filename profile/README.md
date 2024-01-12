@@ -1,6 +1,8 @@
 <p align="center">
-<img width="90%" alt="image" src="https://user-images.githubusercontent.com/34047788/204796156-c5c9d228-725b-4e14-b8ed-1e705ba19bc5.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/34047788/204796156-c5c9d228-725b-4e14-b8ed-1e705ba19bc5.png">
+  <img width="90%" alt="image" src="https://github.com/FlowShield/.github/assets/34047788/043487fc-2f45-412c-b7ca-f2949d8f4470">
 </p>
+
 
 
 The FlowShield project was inspired by the exciting prospects of Web 3.0. We firmly believe that decentralized data retrieval, blockchain and artificial intelligence will be key elements in shaping the future of cybersecurity.
